@@ -15,7 +15,7 @@
     💼 Passionate Data Analyst & Enthusiastic BI Developer 💡
   </h3>
 
-  <h2 style="color:#003B57; margin-top:40px;">🛠️ Technical Skills</h2>
+  <h2 style="color:#003B57; margin-top:40px;">🛠️ Technical Stack</h2>
   <div align="center" style="margin-bottom:30px;">
     <img height="30" src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=mysql&logoColor=white" title="SQL" />
     <img height="30" src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" title="Power BI" />
@@ -24,7 +24,7 @@
     <img height="30" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" title="Git" />
   </div>
 
-  <h2 style="color:#0A66C2;">🌐 Let's Connect</h2>
+  <h2 style="color:#0A66C2;">🌐Connect to me</h2>
   <div align="center" style="margin-top:10px;">
     <a href="mailto:kudekargouri16@gmail.com" target="_blank" title="Send me a mail">
       <img height="34" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
