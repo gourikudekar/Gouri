@@ -1,19 +1,18 @@
 <!-- GitHub Profile README -->
 
-<div align="center" style="background-color:#FDF6EC; padding:20px; font-family:'Segoe UI', sans-serif; border-radius:10px;">
+<div align="center" style="background-color:#FFF8F0; padding:25px; font-family:'Segoe UI', sans-serif; border-radius:12px; box-shadow: 0 4px 10px rgba(0,0,0,0.1);">
 
-  <h1 style="color:#F7931E; font-family:'Trebuchet MS', sans-serif; text-shadow:2px 2px #FFE4B5;">
-    Hi 👋, I'm <strong style="color:#D15E00;">Gouri Kudekar</strong>
+  <h1 style="color:#FF6700; font-family:'Trebuchet MS', sans-serif; text-shadow:1px 1px #FFDAB9;">
+    Hi 👋, I'm <strong style="color:#CC5500;">Gouri Kudekar</strong>
   </h1>
 
-  <h3 style="font-family:'Calibri', sans-serif; font-size:1.4em; background: linear-gradient(to right, #F2C811, #F7931E);
+  <h3 style="font-family:'Verdana', sans-serif; font-size:1.5em; margin-top:10px; 
+             background: linear-gradient(to right, #FFD700, #FF8C00);
              -webkit-background-clip: text; -webkit-text-fill-color: transparent;">
     💼 Passionate Data Analyst | Power BI & SQL Developer 💡
   </h3>
 
-  <hr style="border:1px solid #F2C811; width:60%; margin:20px auto;" />
-
-  <h2 style="color:#003B57;">🛠️ Technical Skills</h2>
+  <h2 style="color:#003B57; margin-top:40px;">🛠️ Technical Skills</h2>
   <div align="center" style="margin-bottom:20px;">
     <img height="28" src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=mysql&logoColor=white" />
     <img height="28" src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
