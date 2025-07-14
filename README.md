@@ -1,6 +1,9 @@
 <!-- GitHub Profile README -->
 
-<div align="center" style="background: radial-gradient(circle, #FFF5E5, #FFDAB9); padding:25px; font-family:'Segoe UI', sans-serif; border-radius:15px; box-shadow:0 5px 15px rgba(0,0,0,0.1);">
+<div align="center" style="
+  background: url('https://i.imgur.com/0fRLKzR.png') center/cover no-repeat, radial-gradient(circle, #FFF5E5, #FFDAB9); 
+  padding:25px; font-family:'Segoe UI', sans-serif; 
+  border-radius:15px; box-shadow:0 5px 15px rgba(0,0,0,0.1);">
 
   <h1 style="color:#FF6600; font-family:'Trebuchet MS', sans-serif; font-size:2.8em; text-shadow:2px 2px #FFD9B0;">
     👋 Hello, I'm <strong style="color:#C14400;">Gouri Kudekar</strong>
