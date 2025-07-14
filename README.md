@@ -1,10 +1,15 @@
-
 <!-- GitHub Profile README -->
 
 <div align="center" style="background-color:#FDF6EC; padding:20px; font-family:'Segoe UI', sans-serif; border-radius:10px;">
 
-  <h1 style="color:#F7931E;">Hi 👋, I'm <strong>Gouri Kudekar</strong></h1>
-  <h3 style="color:#333333;">💼 Passionate <span style="color:#F2C811;">Data Analyst</span> | Power BI & SQL Developer 💡</h3>
+  <h1 style="color:#F7931E; font-family:'Trebuchet MS', sans-serif; text-shadow:2px 2px #FFE4B5;">
+    Hi 👋, I'm <strong style="color:#D15E00;">Gouri Kudekar</strong>
+  </h1>
+
+  <h3 style="font-family:'Calibri', sans-serif; font-size:1.4em; background: linear-gradient(to right, #F2C811, #F7931E);
+             -webkit-background-clip: text; -webkit-text-fill-color: transparent;">
+    💼 Passionate Data Analyst | Power BI & SQL Developer 💡
+  </h3>
 
   <hr style="border:1px solid #F2C811; width:60%; margin:20px auto;" />
 
